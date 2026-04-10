@@ -1,7 +1,7 @@
 # APRS
 APRS Info Collections
 
-QRX
+QRX,
 APRS Missed Message Mailbox
 Q-code: "Wait / Stand by" — your messages are standing by.
 https://qrx.forkum.net/
